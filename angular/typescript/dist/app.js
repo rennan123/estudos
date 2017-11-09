@@ -1,5 +1,6 @@
-let mensagem = "seja bem vindo!!!"
-let temporadasFriends = 10
-let estudandoAngular = true
-let listaDeFrutas = ['uva', 'banana', 'abacate']
-let notaDasProvas = [7.5, 8, 9]
+"use strict";
+var mensagem = "seja bem vindo!!!";
+var temporadasFriends = 10;
+var estudandoAngular = true;
+var listaDeFrutas = ['uva', 'banana', 'abacate'];
+var notaDasProvas = [7.5, 8, 9];
